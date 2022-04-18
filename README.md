@@ -10,7 +10,7 @@ mysterysec@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Turkey
+Location: -
 Frameworks: React, Express, Node.js
 Languages: JavaScript, Python,
            HTML, CSS
